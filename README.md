@@ -39,5 +39,23 @@ On point #2 - price.  Let's use a real example.  Say, you are interested in SANS
 Most SANS students *do not* pay out-of-pocket for SANS.  Most folks are afforded the opportunity to attend SANS courses via employer training programs (or reimbursement).
 
 #### Links
+https://www.sans.org/
+
+### eLearn Security
+
+### Checklist
+
+- Price: ** (fairly expensive)
+- Quality: *** (excellent)
+- Delivery: *** (flexible)
+- Certifications: Yes.
+
+#### Overview
+eLearnSecurity is an 100% online, paid, training platform that focuses on highly practical InfoSec courses.  Originally, the available courses were geared towards students interested in the offensive side of security (the "red team"), with their flagship Penetration Testing Professional course leading the way.
+
+Since, eLearnSecurity now offers up a more diverse cirriculum that is also tailered to the defensive side (the "blue team") - with courses such as Threat Hunting Professional and Practical Web Defense.
+
+####Links
+https://www.elearnsecurity.com
 
 
