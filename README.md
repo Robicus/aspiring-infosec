@@ -11,6 +11,13 @@ In its infancy, the aspiring-infosec repo is no more than a single README file. 
 1.  A list of resources organized by price point/model
 2.  A brief overview of each resource
 
+## Matrix
+
+| Training Resource  | Price ($ - $$$) | Quality | Link
+| ------------------ | --------------- | ------- | ----- 
+| SANS               | Expensive ($$$) | Excellent | https://www.sans.org
+| eLearnSecurity     | Expensive ($$$) | Excellent | https://www.elearnsecurity.com
+
 ## InfoSec Courses - $$$
 
 ### SANS
