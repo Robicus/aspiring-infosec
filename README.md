@@ -15,7 +15,29 @@ In its infancy, the aspiring-infosec repo is no more than a single README file. 
 
 ### SANS
 
+#### Checklist
+
+- Price: *** (expensive)
+- Quality: *** (the best)
+- Delivery: *** (flexible)
+- Certifications: Yes.
+
 #### Overview
+The SANS Institute is a global leader in providing InfoSec training.  The company has been around for about 30 years, and arguably, was first-to-market in providing high quality security training.
+
+SANS training is predominantly known for two things:
+
+1.  Being high-quality, extremeley hands-on and immediately applicable
+2.  Being pricy
+
+SANS instructors are contracted employees who typically have several years of real world experience. In fact, most faculty members operate their own consulting firms and are highly regarded figures in the InfoSec space. Students should never walk away from an intense, 6-day SANS course thinking, "Wow, that was extgremely academic. I have no idea how to apply this knowledge."
+
+The bulk of SANS courses are 6 days long, and the courses are delivered through 3 mediums:  in-person, OnDemand, or Simulcast (a live class that is streamed).
+
+On point #2 - price.  Let's use a real example.  Say, you are interested in SANS' Continous Monitoring (SEC 511) course.  The list price is $6,610.00 USD.  Tack on an additional $769.00 for the certification attempt, and possibly even more if you have to travel to the event site.
+
+Most SANS students *do not* pay out-of-pocket for SANS.  Most folks are afforded the opportunity to attend SANS courses via employer training programs (or reimbursement).
+
 #### Links
 
 
