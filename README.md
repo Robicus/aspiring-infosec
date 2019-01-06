@@ -17,6 +17,7 @@ In its infancy, the aspiring-infosec repo is no more than a single README file. 
 | ------------------ | --------------- | ------- | ----- 
 | SANS               | Expensive ($$$) | Excellent | https://www.sans.org
 | eLearnSecurity     | Expensive ($$$) | Excellent | https://www.elearnsecurity.com
+| Linux Academy      | Cheap ($)       | Excellent | https://linuxacademy.com
 
 ## InfoSec Courses - $$$
 
@@ -65,4 +66,17 @@ Since, eLearnSecurity now offers up a more diverse cirriculum that is also taile
 ####Links
 https://www.elearnsecurity.com
 
+### Linux Academy
 
+- Price * (cheap - affordable)
+- Quality *** (excellent)
+- Delivery *** (flexible)
+- Certifications: No.
+
+#### Overview
+
+Why on Earth would a learning platform that seems so focused on Linux be relevant to our list?  Linux aptitude being a fundamental of one's InfoSec journey aside, don't let the Linux Academy name fool you.  Linux Academy is a monthly subsciption based learning platform jampacked with high-quality video content, an extensive and interactive lab enviornment, and constantluy new and updated content.
+
+Monthly subscriptions run $49.00 USD, or you can pay $499.00 per year (which everages out to $41.58 USD per month).
+
+Content ranges from Linux basics, to securing Linux, and everything you could possibly imagine relating to cloud and DevOps - containers, orchestration, CI/CD -- and there's a ton of content pertaing to AWS, Azure, and GCP.
