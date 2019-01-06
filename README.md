@@ -13,11 +13,11 @@ In its infancy, the aspiring-infosec repo is no more than a single README file. 
 
 ## Matrix
 
-| Training Resource  | Price ($ - $$$) | Quality | Link
-| ------------------ | --------------- | ------- | ----- 
-| SANS               | Expensive ($$$) | Excellent | https://www.sans.org
-| eLearnSecurity     | Expensive ($$$) | Excellent | https://www.elearnsecurity.com
-| Linux Academy      | Cheap ($)       | Excellent | https://linuxacademy.com
+| Training Resource  | Price ($ - $$$) | Model | Price Example | Quality | Link
+| ------------------ | --------------- | ----- | ------------- | ------- | --------- 
+| SANS               | Expensive ($$$) | Per Course | ~$6,600.00 USD | Excellent | https://www.sans.org
+| eLearnSecurity     | Expensive ($$$) | Per Course | ~$1,300.00 USD | Excellent | https://www.elearnsecurity.com
+| Linux Academy      | Cheap ($)       | Subscription | ~$499.00 per year | Excellent | https://linuxacademy.com
 
 ## InfoSec Courses - $$$
 
@@ -49,9 +49,11 @@ Most SANS students *do not* pay out-of-pocket for SANS.  Most folks are afforded
 #### Links
 https://www.sans.org/
 
+---
+
 ### eLearn Security
 
-### Checklist
+#### Checklist
 
 - Price: ** (fairly expensive)
 - Quality: *** (excellent)
@@ -63,8 +65,10 @@ eLearnSecurity is an 100% online, paid, training platform that focuses on highly
 
 Since, eLearnSecurity now offers up a more diverse cirriculum that is also tailered to the defensive side (the "blue team") - with courses such as Threat Hunting Professional and Practical Web Defense.
 
-####Links
-https://www.elearnsecurity.com
+#### Links
+https://www.elearnsecurity.
+
+---
 
 ### Linux Academy
 
@@ -80,3 +84,8 @@ Why on Earth would a learning platform that seems so focused on Linux be relevan
 Monthly subscriptions run $49.00 USD, or you can pay $499.00 per year (which everages out to $41.58 USD per month).
 
 Content ranges from Linux basics, to securing Linux, and everything you could possibly imagine relating to cloud and DevOps - containers, orchestration, CI/CD -- and there's a ton of content pertaing to AWS, Azure, and GCP.
+
+#### Links
+https://linuxacademy.com
+
+
